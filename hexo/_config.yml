@@ -16,7 +16,7 @@ url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-
+avatar: 
 # Directory
 source_dir: source
 public_dir: public
