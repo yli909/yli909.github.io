@@ -16,7 +16,7 @@ url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-avatar: 
+avatar: https://github.com/yli909/pic/blob/master/WechatIMG91.jpeg?raw=true
 # Directory
 source_dir: source
 public_dir: public
